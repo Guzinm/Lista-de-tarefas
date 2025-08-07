@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.titulo {
+    font-weight: bolder;
+    margin-bottom: 5px;
+}
+
+.botao {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.filtros {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px;
+}
+
+.lista {
+    display: flex;
+    flex-direction: column;
+    gap: 20px
+}
+
+.tarefa {
+    margin: 5px;
+}
