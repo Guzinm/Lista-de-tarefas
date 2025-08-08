@@ -1,16 +1,22 @@
-# Lista de tarefas
+# 📋 Lista de Tarefas
 
-Uma lista com todas as funcionalidades de uma lista como adicionar e excluir tarefas, filtrar entre todas, pendente e já concluidas.
+Uma aplicação simples e funcional para organizar o seu dia a dia.  
+Adicione, exclua e filtre tarefas entre **todas**, **pendentes** e **concluídas** — tudo com **100% de garantia de salvamento local**
 
-Tudo isso com 100% garantia de salvamento, local :O
+---
 
-# Como instalar
+## 🚀 Tecnologias utilizadas
+- **React** – criação da interface  
+- **Vite** – build e servidor de desenvolvimento rápido  
 
-Abra seu git bash na pasta desejada para instalação do projeto, a seguir digite os seguintes comandos:
+---
 
-* git clone https://github.com/Guzinm/Lista-de-tarefas.git
-* cd Lista-de-tarefas/
-* npm install
-* npm run dev
-
-Aproveite o site já rodando direto de sua máquina.
+## 💻 Como instalar
+1. Abra o **Git Bash** na pasta onde deseja instalar o projeto.  
+2. Digite os seguintes comandos:  
+   ```bash
+   git clone https://github.com/Guzinm/Lista-de-tarefas.git
+   cd Lista-de-tarefas/
+   npm install
+   npm run dev
+3. Aproveite o site rodando direto da sua máquina.
