@@ -6,11 +6,11 @@ Tudo isso com 100% garantia de salvamento, local :O
 
 # Como instalar
 
-Abra seu git bash na pasta desejada para instalação do projeto, a seguir digite os seguintes comandos:
+Abra seu git bash na pasta desejada para instalação do projeto, a seguir digite os seguintes comandos:]
 
-1 - git clone https://github.com/Guzinm/Lista-de-tarefas.git
-2 - cd Lista-de-tarefas/
-3 - npm install
-4 - npm run dev
+*git clone https://github.com/Guzinm/Lista-de-tarefas.git
+*cd Lista-de-tarefas/
+*npm install
+*npm run dev
 
 Aproveite o site já rodando direto de sua máquina.
